@@ -11,7 +11,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import static cn.komonmc.register.ModItem.registerItem;
 
-public class TestMod implements ModInitializer {.
+public class TestMod implements ModInitializer {
 	public static String ModID="testmod";
 
 	public static final Item TNTPRO=new TNTPRO(new Item.Settings().maxDamage(100));
