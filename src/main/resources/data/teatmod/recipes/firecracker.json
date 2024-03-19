@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapless",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "testmod:firecracker",
+    "count": 10
+  }
+}

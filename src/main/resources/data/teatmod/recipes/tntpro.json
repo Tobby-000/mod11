@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "wdw",
+    "www"
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:tnt"
+    },
+    "d": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "testmod:tntpro",
+    "count": 1
+  }
+}

@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "testmod",
-	"version": "${version}",
+	"version": "${0.1}",
 	"name": "testMod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod for test",
 	"authors": [
-		"Me!"
+		"Tobby_000"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "none",
+		"sources": "https://github.com/Tobby_000/mod11"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache License 2.0",
 	"icon": "assets/testmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
